@@ -5,7 +5,7 @@ public class AndrewGitSample3 {
 		// TODO Auto-generated method stub
 
 		System.out.println(":)");
-		
+		int[] ar=new int[5];
 	}
 
 }
